@@ -50,7 +50,7 @@ public class Runner {
 		System.out.println();
 		System.out.println(list);
 		System.out.println(list2);
-	
+	System.out.println();
 		
 	}
 }
